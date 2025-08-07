@@ -2,4 +2,4 @@
 # 2nd Number = 5
 # operation used = *
 
-print(20*5)
+20*5 = 100
